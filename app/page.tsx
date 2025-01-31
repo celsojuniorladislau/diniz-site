@@ -261,7 +261,7 @@ export default function LandingPage() {
                   <p className="text-sm font-medium text-muted-foreground">
                     Responsável Técnica: Luzana Diniz Cordeiro
                     <br />
-                    <span className="font-semibold text-primary">CFT: 47109595715</span>
+                    <span className="font-semibold text-primary">CFT: 10514913711</span>
                   </p>
                 </div>
               </div>
